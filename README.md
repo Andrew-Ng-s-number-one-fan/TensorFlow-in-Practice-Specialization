@@ -1,1 +1,1 @@
-# ldkong1205TensorFlow-in-Practice-Specialization
+TensorFlow-in-Practice-Specialization
