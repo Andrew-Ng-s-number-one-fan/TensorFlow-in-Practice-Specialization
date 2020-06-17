@@ -1,5 +1,7 @@
 # [TensorFlow-in-Practice-Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
 
+<i> A series of 4 courses from deeplearning.ai</i>
+
 #### Course 1: [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
 
 #### Course 2: [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow)
